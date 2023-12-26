@@ -160,7 +160,25 @@ export const experiences = [
     role: "Full Stack Web Developer",
     company: "NVCTI IIT Dhanbad",
     date: "June 2022 - Present",
-    desc: "The development initiatives for NVCTI's digital infrastructure have been extensive and impactful. Commencing with the official website, I integrated MaterialUI to craft a seamless user experience, constructing the Homepage and an Authentication Page. For the Event Management Portal, I created an admin dashboard and a dynamic form akin to Google Forms. This streamlined workflow led to a notable reduction in processing time by 40%, empowering efficient event organization. The Inventory Management Portal underwent significant enhancements with added search functionality and the capability for lab mentors to upload inventory details via Excel sheets. This overhaul resulted in a 50% boost in productivity and an impressive 70% reduction in errors. Additionally, the introduction of an application form for the Product Development Internship (PDI) streamlined the application process, reducing processing time by 60%. Finally, the implementation of an Email Notification System using Nodemailer has greatly improved applicant engagement and satisfaction, leading to a 30% increase in overall applicant interactions. These developments collectively transformed NVCTI's digital landscape, optimizing operations and significantly enhancing user experiences.",
+    desc: " I integrated MaterialUI to craft a seamless user experience, constructing the Homepage and an Authentication Page. For the Event Management Portal, I created an admin dashboard and a dynamic form akin to Google Forms. This streamlined workflow led to a notable reduction in processing time by 40%, empowering efficient event organization. The Inventory Management Portal underwent significant enhancements with added search functionality . This overhaul resulted in a 50% boost in productivity and an impressive 70% reduction in errors. Additionally, the introduction of an application form for the Product Development Internship (PDI) streamlined the application process, reducing processing time by 60%. Finally, the implementation of an Email Notification System using Nodemailer has greatly improved applicant engagement and satisfaction, leading to a 30% increase in overall applicant interactions. These developments collectively transformed NVCTI's digital landscape, optimizing operations and significantly enhancing user experiences.",
+    skills: [
+      "ReactJS",
+      "Redux",
+      "NodeJs",
+      "Material UI",
+      "HTML",
+      "CSS",
+      "JavaScript",
+    ],
+   
+  },
+  {
+    id: 1,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5UGylG7_C4H321TLBJmqX8y2WPIbICoHtFEzdnYQ4g&s",
+    role: "Full Stack Web Developer Intern",
+    company: "INFOTRIXS",
+    date: "Oct 2023- Dec 2023",
+    desc: "Worked on live projects with Senior Developer fixing bugs and issues on codebase & production and Made Project 40% more efficient & Scalable. Worked on User Verification/Authentication features challenges of detecting and removing the fake bots and posts. ",
     skills: [
       "ReactJS",
       "Redux",
@@ -173,8 +191,32 @@ export const experiences = [
    
   },
 
+
   {
     id: 1,
+    img: "https://i.ibb.co/b3BcLnk/download.jpg",
+    role: " Web Developer Intern",
+    company: "SkyBug Technology",
+    date: "Nov 2023 - Present",
+    desc: "Collaborated with frontend teams contributing to robust and scalable server-side logic.Optimized application for 40% increase in speed & Scalability",
+    skills: [
+      "ReactJS",
+      "Redux",
+      "NodeJs",
+      "Material UI",
+      "HTML",
+      "CSS",
+      "JavaScript",
+    ],
+   
+  },
+
+
+
+
+
+  {
+    id: 3,
     img: "https://i.ibb.co/kBJPnC9/kk-Lyg-Xmm-400x400-ACIC.jpg",
     role: "Act2INNOVATE— Ideathon(ACIC–IIT(ISM))",
     company: "IIT Dhanbad",
@@ -192,7 +234,7 @@ export const experiences = [
    
   },
   {
-    id: 2,
+    id: 4,
     img: "https://i.ibb.co/RPLjD85/download-HF.jpg",
     role: "Hackfest 2K22 |IIT (ISM) DHANBAD",
     company: "IIT Dhanbad",
@@ -212,13 +254,13 @@ export const experiences = [
     ],
   },
   {
-    id: 3,
+    id: 5,
     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
     role: "Open Source Contributor ",
     company: "GirlScript Summer of Code",
     date: "May 2023 - Present",
     desc: "Contributing to different open-source projects and learn from industry experts",
-   
+    doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
   },
   
 ];
