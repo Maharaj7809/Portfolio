@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Maharaj7809",
   resume:
-    "https://docs.google.com/document/d/1V2mkUR22Q32ioWckPQRD_oZcJ1mPqCDzJr5gSlqTe34/edit?usp=sharing",
+    "https://docs.google.com/document/d/1EtfmT7RQ4TLXP7ceEx_FWJR59mM-qvAZUcIHjpanf5c/edit?usp=sharing",
   linkedin: "https://www.linkedin.com/in/maharaj7/",
   twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/rishav_chanda/",
