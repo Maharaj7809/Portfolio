@@ -57,11 +57,7 @@ export const skills = [
         name: "Material UI",
         image: "",
       },
-      {
-        name: "Flutter",
-        image:
-          "https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png",
-      },
+    
     ],
   },
   {
@@ -75,15 +71,7 @@ export const skills = [
         name: "Express Js",
         image: "",
       },
-      {
-        name: "Graph Ql",
-        image: "https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg",
-      },
-      {
-        name: "Python",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-      },
+     
       {
         name: "MySQL",
         image:
@@ -118,11 +106,7 @@ export const skills = [
         image:
           "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
       },
-      {
-        name: "Docker",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg",
-      },
+      
       {
         name: "Netlify",
         image:
