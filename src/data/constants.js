@@ -72,15 +72,15 @@ export const skills = [
         image: "",
       },
      
-      // {
-      //   name: "MySQL",
-      //   image:
-      //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
-      // },
-      // {
-      //   name: "Postgresql",
-      //   image: "https://www.postgresql.org/media/img/about/press/elephant.png",
-      // },
+      {
+        name: "MySQL",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+      },
+      {
+        name: "Postgresql",
+        image: "https://www.postgresql.org/media/img/about/press/elephant.png",
+      },
       {
         name: "MongoDB",
         image:
@@ -381,6 +381,49 @@ export const projects = [
     github: "https://github.com/Maharaj7809/ML-Model",
     webapp: "https://github.com/Maharaj7809/ML-Model",
   },
+ {
+    id: 9,
+    title: "E-Baharat Ecommerce App",
+    date: "Dec 2023 - Jan 2024",
+    description:
+      "The Movie App, crafted with ReactJS and the MERN stack, stands as a dynamic platform leveraging APIs. It offers an immersive movie-watching experience by seamlessly integrating various services. Utilizing ReactJS for a responsive front-end, it connects to a MongoDB database through Node.js and Express for robust backend support. The incorporation of APIs enriches the app with extensive movie data, enabling users to browse, discover, and access comprehensive information about movies. Through its intuitive interface and powerful tech stack, this app redefines entertainment, providing a seamless platform for movie enthusiasts to explore, discover, and enjoy their favorite films.",
+    image:
+      "https://i.ibb.co/cCzWhhQ/Screenshot-2024-03-13-213405.png",
+    tags: ["ReactJS", "HTML", "CSS","NodeJS","ThreeJS","JS" , "PostgreSQL"],
+    category: "web app",
+    github: "https://github.com/Maharaj7809/Ecommerce",
+    webapp: "https://ecommerce-five-rust.vercel.app/",
+  },
+
+ {
+    id: 11,
+    title: "Studio App",
+    date: "Jan 2024 - Feb 2024",
+    description:
+      "The Movie App, crafted with ReactJS and the MERN stack, stands as a dynamic platform leveraging APIs. It offers an immersive movie-watching experience by seamlessly integrating various services. Utilizing ReactJS for a responsive front-end, it connects to a MongoDB database through Node.js and Express for robust backend support. The incorporation of APIs enriches the app with extensive movie data, enabling users to browse, discover, and access comprehensive information about movies. Through its intuitive interface and powerful tech stack, this app redefines entertainment, providing a seamless platform for movie enthusiasts to explore, discover, and enjoy their favorite films.",
+    image:
+      "https://i.ibb.co/GJBXfYs/Screenshot-2024-03-13-213648.png",
+    tags: ["ReactJS", "HTML", "CSS","NodeJS","ThreeJS","3D Three-Fibre"],
+    category: "web app",
+    github: "https://github.com/Maharaj7809/Studio-Website",
+    webapp: "https://studio-five-ruby.vercel.app/",
+  },
+
+ {
+    id: 10,
+    title: "Movie App",
+    date: "Jun 2023 - Jul 2023",
+    description:
+      "The Movie App, crafted with ReactJS and the MERN stack, stands as a dynamic platform leveraging APIs. It offers an immersive movie-watching experience by seamlessly integrating various services. Utilizing ReactJS for a responsive front-end, it connects to a MongoDB database through Node.js and Express for robust backend support. The incorporation of APIs enriches the app with extensive movie data, enabling users to browse, discover, and access comprehensive information about movies. Through its intuitive interface and powerful tech stack, this app redefines entertainment, providing a seamless platform for movie enthusiasts to explore, discover, and enjoy their favorite films.",
+    image:
+      "https://i.ibb.co/XSZxNHw/Screenshot-2023-12-12-094857.png",
+    tags: ["ReactJS", "API", "Axios","NodeJS","ThreeJS","3D Three-Fibre"],
+    category: "web app",
+    github: "https://github.com/Maharaj7809/Movie-App",
+    webapp: "https://movie-irx5.onrender.com/",
+  },
+
+
 ];
 
 export const TimeLineData = [
