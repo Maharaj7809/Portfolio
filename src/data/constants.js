@@ -386,7 +386,7 @@ export const projects = [
     title: "E-Baharat Ecommerce App",
     date: "Dec 2023 - Jan 2024",
     description:
-      "The Movie App, crafted with ReactJS and the MERN stack, stands as a dynamic platform leveraging APIs. It offers an immersive movie-watching experience by seamlessly integrating various services. Utilizing ReactJS for a responsive front-end, it connects to a MongoDB database through Node.js and Express for robust backend support. The incorporation of APIs enriches the app with extensive movie data, enabling users to browse, discover, and access comprehensive information about movies. Through its intuitive interface and powerful tech stack, this app redefines entertainment, providing a seamless platform for movie enthusiasts to explore, discover, and enjoy their favorite films.",
+     "Experience the future of online shopping with our innovative Ecommerce application. Seamlessly blending ReactJS, HTML, CSS, NodeJS, ThreeJS, JavaScript, and PostgreSQL, our platform is a testament to cutting-edge technology and user-centric design. Our app delivers precisely that, offering intuitive navigation, personalized recommendations, and secure checkout processes. Powered by a robust backend system, our real-time inventory management ensures accurate stock updates, while our 3D visualization feature elevates product exploration to a whole new level.",
     image:
       "https://i.ibb.co/cCzWhhQ/Screenshot-2024-03-13-213405.png",
     tags: ["ReactJS", "HTML", "CSS","NodeJS","ThreeJS","JS" , "PostgreSQL"],
@@ -400,7 +400,7 @@ export const projects = [
     title: "Studio App",
     date: "Jan 2024 - Feb 2024",
     description:
-      "The Movie App, crafted with ReactJS and the MERN stack, stands as a dynamic platform leveraging APIs. It offers an immersive movie-watching experience by seamlessly integrating various services. Utilizing ReactJS for a responsive front-end, it connects to a MongoDB database through Node.js and Express for robust backend support. The incorporation of APIs enriches the app with extensive movie data, enabling users to browse, discover, and access comprehensive information about movies. Through its intuitive interface and powerful tech stack, this app redefines entertainment, providing a seamless platform for movie enthusiasts to explore, discover, and enjoy their favorite films.",
+     "Our Studio application redefines the way studios operate by offering a unified platform for scheduling, resource management, and client communication. Whether you're a yoga studio, fitness center, dance academy, or creative space, our app empowers you to streamline operations, enhance customer experiences, and grow your business with ease. ",
     image:
       "https://i.ibb.co/GJBXfYs/Screenshot-2024-03-13-213648.png",
     tags: ["ReactJS", "HTML", "CSS","NodeJS","ThreeJS","3D Three-Fibre"],
