@@ -410,18 +410,44 @@ export const projects = [
   },
 
  {
-    id: 10,
-    title: "Movie App",
-    date: "Jun 2023 - Jul 2023",
-    description:
-      "The Movie App, crafted with ReactJS and the MERN stack, stands as a dynamic platform leveraging APIs. It offers an immersive movie-watching experience by seamlessly integrating various services. Utilizing ReactJS for a responsive front-end, it connects to a MongoDB database through Node.js and Express for robust backend support. The incorporation of APIs enriches the app with extensive movie data, enabling users to browse, discover, and access comprehensive information about movies. Through its intuitive interface and powerful tech stack, this app redefines entertainment, providing a seamless platform for movie enthusiasts to explore, discover, and enjoy their favorite films.",
+    id: 11,
+    title: "Quiz App",
+    date: "Sept 2023 - Oct 2023",
+    description:"Our quiz app leverages a robust tech stack, comprising HTML, CSS, and JavaScript for front-end development, React for dynamic UI rendering, Node.js for server-side logic, Express.js for routing, PostgreSQL for database management, and Three.js for immersive visualizations.",
     image:
-      "https://i.ibb.co/XSZxNHw/Screenshot-2023-12-12-094857.png",
+      "https://i.ibb.co/v3fZ8bD/Screenshot-2024-03-17-114615.png",
     tags: ["ReactJS", "API", "Axios","NodeJS","ThreeJS","3D Three-Fibre"],
     category: "web app",
-    github: "https://github.com/Maharaj7809/Movie-App",
-    webapp: "https://movie-irx5.onrender.com/",
+    github: "https://github.com/Maharaj7809/Quiz_Assignment?tab=readme-ov-file",
+    webapp: "https://quiz-assignment-ghuu-nkt3f1xrg-maharaj7809.vercel.app/",
   },
+ {
+    id: 12,
+    title: "PokeMon App",
+    date: "Desc 2023 - Jan 2024",
+    description:"Introducing our Pokémon app, powered by a cutting-edge tech stack. Utilizing HTML, CSS, and JavaScript for front-end design, React for dynamic user interfaces, Node.js for server-side operations, Express.js for routing, PostgreSQL for efficient data management, and Three.js for immersive visual elements. Embark on your Pokémon journey today!",
+    image:
+      "https://i.ibb.co/0Xb97yy/Screenshot-2024-03-17-114926.png",
+    tags: ["ReactJS", "API", "Axios","NodeJS","ThreeJS","3D Three-Fibre"],
+    category: "web app",
+    github: "https://github.com/Maharaj7809/PokemonAssignment",
+    webapp: "https://pokemon-app-assignment.vercel.app/",
+  },
+ {
+    id: 13,
+    title: "Tech Fest Website",
+    date: "Jan 2023 - Mar 2023",
+    description:"Presenting the TechFest Website Srijan, engineered  an innovative tech stack. Crafted using HTML, CSS, and JavaScript  dynamic design, React for interactive user experiences, Node.js and Express.js for robust server-side operations, PostgreSQL  efficient data management, and Three.js  captivating visual elements. Explore Srijan now!",
+    image:
+      "https://i.ibb.co/N2nQB0g/Screenshot-2024-03-17-115139.png",
+    tags: ["ReactJS", "API", "Axios","NodeJS","ThreeJS","3D Three-Fibre"],
+    category: "web app",
+    github: "https://github.com/Maharaj7809/TechFestWebsite",
+    webapp: "https://srijan-2023-frontend.vercel.app/#/home",
+  },
+
+
+
 
 
 ];
