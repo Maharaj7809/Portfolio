@@ -315,7 +315,7 @@ export const projects = [
     description:
       "The ecommerce website stands as a robust, scalable platform leveraging Strapi for efficient content and product data management. It hosts comprehensive features like product listing, cart functionality, and adept management of orders, transactions, and user authentication. Seamlessly integrated with Stripe payment gateways, it ensures secure and smooth transactions. This platform not only provides a streamlined shopping experience but also showcases the potential of utilizing Strapi for content and product data management, offering a secure, feature-rich ecommerce environment with intuitive functionalities.",
     image:
-      "https://i.ibb.co/xF1FWGx/Screenshot-2023-12-12-094717.png",
+      "https://i.ibb.co/chQDt1r/Screenshot-2024-03-18-215742.png",
     tags: [
       "React Js",
       "MongoDb",
@@ -326,7 +326,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/Maharaj7809/Ecommerce_App",
-    webapp: "https://ecommerce-6300.onrender.com/",
+    webapp: "https://meesho-clone-ashokprjapati.vercel.app/",
   },
   {
     id: 2,
