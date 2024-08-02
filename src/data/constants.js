@@ -57,6 +57,10 @@ export const skills = [
         name: "Material UI",
         image: "",
       },
+     {
+        name: "Tailwind",
+        image: "",
+      },
     
     ],
   },
@@ -89,6 +93,18 @@ export const skills = [
       {
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+      },
+     {
+        name: "Spring Boot",
+        image: " ",
+      },
+     {
+        name: "Java",
+        image: " ",
+      },
+    {
+        name: "Theamleaf",
+        image: " ",
       },
     ],
   },
@@ -123,7 +139,7 @@ export const skills = [
           "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
       },
       {
-        name: "Adobe XD",
+        name: "EWS",
         image:
           "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
       },
@@ -156,8 +172,25 @@ export const experiences = [
     ],
    
   },
-  {
+ {
     id: 1,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfjv3ySU3U2TcTZA1qxCNVJOrMnxdGEe0lBQ&s",
+    role: "Full Stack Engineer Intern",
+    company: "Techmatrix Corp.(Tokyo) Japan",
+    date: "May 2024 - July 2024",
+    desc:"Developed and optimized CRM solutions for contact centers.Participated in the development and improvement of FAQ solutions.Identified and resolved bugs to ensure robust and efficient software performance.Collaborated with the team to deliver high-quality code, documented in the Issue Tracking System.Successfully committed source code to Git, ensuring version control and project continuity",
+    skills: [
+      "NextJS",
+      "Dojo Toolkit",
+      "Java",
+      "Spring Boot",
+      "HTML",
+      "CSS",
+    ],
+   
+  },
+  {
+    id: 2,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5UGylG7_C4H321TLBJmqX8y2WPIbICoHtFEzdnYQ4g&s",
     role: "Full Stack Web Developer Intern",
     company: "INFOTRIXS",
@@ -175,9 +208,8 @@ export const experiences = [
    
   },
 
-
   {
-    id: 1,
+    id: 3,
     img: "https://i.ibb.co/b3BcLnk/download.jpg",
     role: " Web Developer Intern",
     company: "SkyBug Technology",
@@ -195,12 +227,8 @@ export const experiences = [
    
   },
 
-
-
-
-
   {
-    id: 3,
+    id: 4,
     img: "https://i.ibb.co/kBJPnC9/kk-Lyg-Xmm-400x400-ACIC.jpg",
     role: "Act2INNOVATE— Ideathon(ACIC–IIT(ISM))",
     company: "IIT Dhanbad",
@@ -218,7 +246,7 @@ export const experiences = [
    
   },
   {
-    id: 4,
+    id: 5,
     img: "https://i.ibb.co/RPLjD85/download-HF.jpg",
     role: "Hackfest 2K22 |IIT (ISM) DHANBAD",
     company: "IIT Dhanbad",
